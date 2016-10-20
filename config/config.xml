@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databases>
+    <type>MySql</type>
+    <driver>com.mysql.jdbc.Driver</driver>
+    <database>hulllll</database>
+    <uri>localhost</uri>
+    <port>3306</port>
+    <user>root</user>
+    <password>huang650</password>
+</databases>
