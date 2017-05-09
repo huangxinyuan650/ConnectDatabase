@@ -8,3 +8,6 @@
     <user>数据库用户名</user>
     <password>数据库密码</password>
 </databases>
+<!--
+    如果是sqlserver数据库的话，驱动需要改成com.microsoft.sqlserver.jdbc.SQLServerDriver，端口好改成1433即可
+-->
